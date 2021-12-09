@@ -1,6 +1,6 @@
 ### Let us give it our all
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=HakimFadzli)
+![Github stats](https://github-readme-stats.vercel.app/api?username=HakimFadzli&show_icons=true&theme=onedark&count_private=true)
 
 
 <!--
